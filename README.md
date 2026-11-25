@@ -4,12 +4,12 @@ Goal: See how models perform in second division vs first division, using Bundesl
 
 DEMO: use best model to predict next matchday's games with confidence and probability (and model)
 
-For models, softmax has general structure, search through to find features (BEAM) and model structure. 
+For models, softmax has general structure, search through to find features (BEAM) and model structure. Find feature importance 
 BEST ACCURACIES: first league consistent with literature. (+10% majority baseline). Feature importance very different for both.
 1. .536
 2. .471
 
-Note, with draws accuracy around .80
+Note, with draws removed, accuracy around .80
 
 TODO:
 
