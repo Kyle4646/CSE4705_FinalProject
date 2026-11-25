@@ -6,8 +6,8 @@ DEMO: use best model to predict next matchday's games with confidence and probab
 
 For models, softmax has general structure, search through to find features (BEAM) and model structure. Find feature importance 
 BEST ACCURACIES: first league consistent with literature. (+10% majority baseline). Feature importance very different for both.
-1. .536
-2. .471
+1. .5424
+2. .465
 
 Note, with draws removed, accuracy around .80
 
